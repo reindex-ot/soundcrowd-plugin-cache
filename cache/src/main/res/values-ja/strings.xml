@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ SPDX-License-Identifier: GPL-3.0-only
+  -->
+<resources>
+  <string name="app_name">soundcrowd-cache</string>
+  <string name="cache_size_key">cache_size</string>
+  <string name="cache_size_title">キャッシュのサイズ</string>
+  <string name="cache_size_summary">LRU キャッシュの最大サイズを設定します</string>
+  <string name="cache_size_dialog_message">最大キャッシュサイズは MB 単位で入力してください</string>
+</resources>
